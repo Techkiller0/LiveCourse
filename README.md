@@ -1,2 +1,2 @@
 # LiveCourse
- traoining-chapter1
+ training-chapter1
